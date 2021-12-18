@@ -1,5 +1,5 @@
-Python Project - Korean Exchange Rate Prediction Using LSTM Models
+Python Project - Inflation in Europe
 
 by Inhee Lee
 
-This python program uses data of foreign exchange rates from 2000 to 2019 from Kaggle to plot Korean exchange rates and predict the past Korean exchange rates using LSTM models. 
+This python program uses a set of data on the inflation rates of European nations from 2008 to 2019 to plot inflation rates and predict the rate of inflation between those years
